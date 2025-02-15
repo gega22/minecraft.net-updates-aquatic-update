@@ -1,29 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
-.btn {
-    text-decoration: none;float: right;
-
-    background-color: #333333;
-
-    border: none;
-
-    color: blue;
-
-    padding: 15px 30px;
-
-    font-size: 16px;
-
-    cursor: pointer;
-
-    border-radius: 5px;
-
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-
-    transition: all 0.2s ease-in-out;
-
-    text-decoration: none;
-
-    margin-top: -40px; /* Adjust the value as needed */
-}
 a {
     text-decoration: none;
     color: inherit;
@@ -163,3 +138,17 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
+.back-to-home{
+    margin-top: -40px;
+    height: 50px;
+    float: left;
+    background-color: #333333;
+    border: none;
+    color: blue;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: all 0.2s ease-in-out;
+  }
